@@ -7,9 +7,9 @@ first_name: Eco
 middle_name: Syntax
 last_name: LLC
 contact_note: >
-  Join our mailing list for updates on projects and products
+  Join our mailing list for updates on projects and products!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Software products and projects founded on sound principles.
+  where code, economics, and ecology meet
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: EcoSyntax Blog # blog_name will be displayed in your blog page
-blog_description: projects - products - principles
+blog_description: projects - people - principles
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
