@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: false
+title: training
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Our founder, Colby Brown, has over 15 years of experience designing, developing, and delivering software training courses and other continuing education resources for busy professionals.  Since 2021, he has been a Bentley Authorized Training Partner supporting CUBE users in North America.
 
-Organize your courses by years, topics, or universities, however you like!
+Sign up for our newsletter and/or follow us on Bluesky for updates regarding future course offerings related to LuminCity, the successor to Cube Land.
