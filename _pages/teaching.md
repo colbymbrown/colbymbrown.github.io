@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: training
-description: custom software training for busy professionals
+description: tutorials and learning materials
 nav: true
 nav_order: 4
 ---
