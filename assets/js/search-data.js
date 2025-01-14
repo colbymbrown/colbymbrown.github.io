@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-training",
           title: "training",
-          description: "custom software training for busy professionals",
+          description: "tutorials and learning materials",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
